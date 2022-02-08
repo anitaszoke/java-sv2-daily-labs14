@@ -22,6 +22,6 @@ public class PairFinder {
 
     public static void main(String[] args) {
         PairFinder pairFinder = new PairFinder();
-        System.out.println(pairFinder.findPair(new int[]{7,7,7,7,7,8,8,9,5,5,1,2,2}));
+        System.out.println(pairFinder.findPair(new int[]{1,3,3,5,3,3,5,8,5,8,2,2,2}));
     }
 }
